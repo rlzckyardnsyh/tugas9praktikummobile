@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963180977410",
+    "project_id": "tugas9praktikum",
+    "storage_bucket": "tugas9praktikum.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963180977410:android:e99ee2acc19be140a6761b",
+        "android_client_info": {
+          "package_name": "com.example.tugas9praktikum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChcVLR3I4UB30182lkDVNx6pvtRSj0Jug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
